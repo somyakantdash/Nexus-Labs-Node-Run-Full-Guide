@@ -6,7 +6,7 @@
 
 🍀Go: https://app.nexus.xyz/
 
-👉Click Connect & That's It > Must Connect ur Gmail & Must Save ur PROVER ID (Do Not Clear ur Browser Cache & History)
+👉Click Toggle Button & That's It > Must Connect ur Gmail & Verify it (Do Not Clear ur Browser Cache & History)
 
 👉Must open ur browser in background -- More Uptime means More Reward
 
