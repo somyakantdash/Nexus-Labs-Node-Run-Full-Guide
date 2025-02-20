@@ -51,6 +51,8 @@ Then put Ur Node ID & Run it Continuesly
 
 ## How to get Node ID
 
+🍀Go: https://app.nexus.xyz/
+
 - Click "Nodes" button
 - Click "Add node" button
 - Click "Add CLI node" button
