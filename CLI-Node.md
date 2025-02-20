@@ -27,7 +27,7 @@ sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-### Then Just Press Enter
+- Then Just Press Enter
 ```
 rustup target add riscv32i-unknown-none-elf
 ```
