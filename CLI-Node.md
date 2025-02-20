@@ -5,7 +5,7 @@
 1️⃣ Dependencies for WINDOWS & LINUX
 ```
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 ```
 
 For VPS Only
@@ -24,6 +24,7 @@ cd nexus-cli
 ```
 sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
 ```
+### Then Just Press Enter
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
