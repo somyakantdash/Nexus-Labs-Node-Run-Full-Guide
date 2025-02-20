@@ -45,6 +45,7 @@ sudo apt install -y protobuf-compiler
 ```
 curl https://cli.nexus.xyz/ | sh
 ```
+- Then write "2" and Press Enter and Put ur Node ID
 
 Then put Ur Node ID & Run it Continuesly
 
