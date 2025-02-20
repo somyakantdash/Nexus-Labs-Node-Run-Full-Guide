@@ -72,5 +72,8 @@ after that write that START NODE command
 
 #1 Open WSL and Put this Command 
 ```
+cd nexus-cli
+```
+```
 curl https://cli.nexus.xyz/ | sh
 ```
