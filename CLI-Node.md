@@ -55,6 +55,19 @@ Then put Ur Node ID & Run it Continuesly
 - Click "Add CLI node" button
 - Then copy your Node ID & Paste in WSL
 
+### If Ypu Showing These Error then Put Below Command
+
+```
+sudo apt-get remove -y protobuf-compiler && \
+wget https://github.com/protocolbuffers/protobuf/releases/download/v30.0-rc1/protoc-30.0-rc-1-linux-x86_64.zip && \
+unzip protoc-30.0-rc-1-linux-x86_64.zip -d /usr/local/ && \
+sudo chmod +x /usr/local/bin/protoc
+```
+
+after that re Run the node with 
+```
+cargo run --release start
+```
 
 ## 🔶For Next Day Run This Command
 
