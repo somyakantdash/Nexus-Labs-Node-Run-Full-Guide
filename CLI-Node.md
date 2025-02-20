@@ -56,6 +56,7 @@ Then put Ur Node ID & Run it Continuesly
 - Then copy your Node ID & Paste in WSL
 
 ### If Ypu Showing These Error then Put Below Command
+![Screenshot 2025-02-20 212444](https://github.com/user-attachments/assets/754f8120-2db4-405e-b9fe-e233d76ac133)
 
 ```
 sudo apt-get remove -y protobuf-compiler && \
