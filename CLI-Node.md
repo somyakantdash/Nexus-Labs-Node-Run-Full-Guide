@@ -66,10 +66,7 @@ unzip protoc-30.0-rc-1-linux-x86_64.zip -d /usr/local/ && \
 sudo chmod +x /usr/local/bin/protoc
 ```
 
-after that re Run the node with 
-```
-curl https://cli.nexus.xyz/ | sh
-```
+after that write that START NODE command
 
 ## 🔶For Next Day Run This Command
 
