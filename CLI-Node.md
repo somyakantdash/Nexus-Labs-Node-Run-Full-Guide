@@ -24,10 +24,10 @@ cd nexus-cli
 ```
 sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
 ```
-### Then Just Press Enter
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+### Then Just Press Enter
 ```
 rustup target add riscv32i-unknown-none-elf
 ```
