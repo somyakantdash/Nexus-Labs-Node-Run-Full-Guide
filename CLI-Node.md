@@ -67,7 +67,14 @@ wget https://github.com/protocolbuffers/protobuf/releases/download/v30.0-rc1/pro
 unzip protoc-30.0-rc-1-linux-x86_64.zip -d /usr/local/ && \
 sudo chmod +x /usr/local/bin/protoc
 ```
+after that write that START NODE command
 
+### If Your Showing These Error then Put Below Command
+![6176791282869978196](https://github.com/user-attachments/assets/52c2dd24-254f-4ed2-a252-208786a2d183)
+
+```
+sudo fallocate -l 10G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile && echo ‘/swapfile none swap sw 0 0’ | sudo tee -a /etc/fstab
+```
 after that write that START NODE command
 
 ## 🔶For Next Day Run This Command
