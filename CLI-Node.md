@@ -16,6 +16,12 @@ apt install screen -y
 2️⃣ Download Some Files
 
 ```
+mkdir nexus-cli
+```
+```
+cd nexus-cli
+```
+```
 sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
 ```
 ```
@@ -26,6 +32,9 @@ rustup target add riscv32i-unknown-none-elf
 ```
 ```
 source $HOME/.cargo/env
+```
+```
+sudo apt install pkg-config libssl-dev
 ```
 ```
 sudo apt install -y protobuf-compiler
