@@ -70,8 +70,8 @@ sudo chmod +x /usr/local/bin/protoc
 ```
 after that write that START NODE command
 
-### If Your Showing These Error then Put Below Command
-![6176791282869978196](https://github.com/user-attachments/assets/52c2dd24-254f-4ed2-a252-208786a2d183)
+### If Your Showing These anyone of these Error then Put Below Command
+![6176791282869978196](https://github.com/user-attachments/assets/52c2dd24-254f-4ed2-a252-208786a2d183)    ![6179330398815896755](https://github.com/user-attachments/assets/f5c85d84-0eb7-4488-8193-8a3848a9c9b0)
 
 ```
 sudo fallocate -l 10G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile && echo ‘/swapfile none swap sw 0 0’ | sudo tee -a /etc/fstab
